@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+         <title> DEPARTMENT OF DATA TECHNOLOGY AND ANALYICS </title>
+    </head>
+    <Body>
+        <h1 style="text-align: center;"> PPTI </h1>
+        <nav style="background-color: darkblue;font-size: 15px;" >
+            <a href="index.html" style="color: aliceblue;" >home</a>
+            <a href="about.html" style="color: aliceblue;">about us</a>
+            <a href="courses.html" style="color: aliceblue;">courses</a>
+            <a href="contacts.html " style="color: aliceblue;">contacts</a>
+        </nav>
+        <
